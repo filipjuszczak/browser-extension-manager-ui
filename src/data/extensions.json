@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c5e9b99c-7501-47ce-b254-d1d41d8a4c23",
+    "logo": "/img/logo-devlens.svg",
+    "name": "DevLens",
+    "description": "Quickly inspect page layouts and visualize element boundaries.",
+    "isActive": true
+  },
+  {
+    "id": "e48563a2-489e-4ece-9709-fd9e169ed8be",
+    "logo": "/img/logo-style-spy.svg",
+    "name": "StyleSpy",
+    "description": "Instantly analyze and copy CSS from any webpage element.",
+    "isActive": true
+  },
+  {
+    "id": "67ef3ff6-b2fd-4f5e-83d4-a7d378aa860c",
+    "logo": "/img/logo-speed-boost.svg",
+    "name": "SpeedBoost",
+    "description": "Optimizes browser resource usage to accelerate page loading.",
+    "isActive": false
+  },
+  {
+    "id": "e711ef91-edd9-4a1e-b954-106035018fa3",
+    "logo": "/img/logo-json-wizard.svg",
+    "name": "JSONWizard",
+    "description": "Formats, validates, and prettifies JSON responses in-browser.",
+    "isActive": true
+  },
+  {
+    "id": "6a5e30b8-2e5d-4dd9-9abb-4470a9097dde",
+    "logo": "/img/logo-tab-master-pro.svg",
+    "name": "TabMaster Pro",
+    "description": "Organizes browser tabs into groups and sessions.",
+    "isActive": true
+  },
+  {
+    "id": "51c52639-64ab-4cf1-8b1e-a95bc575f66c",
+    "logo": "/img/logo-viewport-buddy.svg",
+    "name": "ViewportBuddy",
+    "description": "Simulates various screen resolutions directly within the browser.",
+    "isActive": false
+  },
+  {
+    "id": "37a7a926-2c35-4ed5-8556-d603fc603416",
+    "logo": "/img/logo-markup-notes.svg",
+    "name": "Markup Notes",
+    "description": "Enables annotation and notes directly onto webpages for collaborative debugging.",
+    "isActive": true
+  },
+  {
+    "id": "983af535-cb53-4dac-9b1c-ca7cc981faf8",
+    "logo": "/img/logo-grid-guides.svg",
+    "name": "GridGuides",
+    "description": "Overlay customizable grids and alignment guides on any webpage.",
+    "isActive": false
+  },
+  {
+    "id": "6d6361d8-41b6-4820-886b-afd1ae58ca63",
+    "logo": "/img/logo-palette-picker.svg",
+    "name": "Palette Picker",
+    "description": "Instantly extracts color palettes from any webpage.",
+    "isActive": true
+  },
+  {
+    "id": "8f3c0959-2ba6-4253-a2fb-8c77534568c0",
+    "logo": "/img/logo-link-checker.svg",
+    "name": "LinkChecker",
+    "description": "Scans and highlights broken links on any page.",
+    "isActive": true
+  },
+  {
+    "id": "7b2c7c57-d1d0-4289-80b0-1a88bef34945",
+    "logo": "/img/logo-dom-snapshot.svg",
+    "name": "DOM Snapshot",
+    "description": "Capture and export DOM structures quickly.",
+    "isActive": false
+  },
+  {
+    "id": "a4ae1653-17bd-4650-ad57-814cf44f297a",
+    "logo": "/img/logo-console-plus.svg",
+    "name": "ConsolePlus",
+    "description": "Enhanced developer console with advanced filtering and logging.",
+    "isActive": true
+  }
+]
